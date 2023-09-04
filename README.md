@@ -2,7 +2,7 @@
 <h1 align="center">Hi 🤗, I'm Faiz Naeem</h1>
 <h1>💫 About Me: </h1>
 <img align="right" width="400"  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="alt" >
-Studing Somputer Science 💻💻 Learning Stage<br>🌱 I’m currently learning Web And Mob development (SMIT) And Inter Continue<br>👨‍💻 All of my projects are available at https://faiznaeem.github.io/PORTFOLIO-WEB/<br>💬 Ask me about Only Web<br>📫 How to reach me faiznaeem192022@gmail.com<br>⚡ Fun fact I Am Not Funnyvv
+Studing Computer Science 💻💻 Learning Code <br>🌱 I’m currently learning Web And Mob development (SMIT) And Inter Continue<br>👨‍💻 All of my projects are available at https://faiznaeem.github.io/PORTFOLIO-WEB/<br>💬 Ask me about Only Web<br>📫 How to reach me faiznaeem192022@gmail.com<br>⚡ Fun fact I Am Not Funny
 
 
 ## 🌐 Socials:
